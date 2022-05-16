@@ -1,0 +1,51 @@
+1.  sci-kit learn
+introduction
+scikit-learn (formerly scikits.learn and also known as sklearn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. Scikit-learn is a NumFOCUS fiscally sponsored project.
+
+scikit-learn used for?
+ Scikit-learn is an indispensable part of the Python machine learning toolkit at JPMorgan. It is very widely used across all parts of the bank for classification, predictive analytics, and very many other machine learning tasks
+
+  application
+Machine learning applications built with scikit-learn include financial cybersecurity analytics, product development, neuroimaging, barcode scanner development, medical modeling and help with handling Shopify inventory issues. The wide range of decision modeling features makes scikit-learn.
+
+  advantages
+The library is distributed under the BSD license, making it free with minimum legal and licensing restrictions. It is easy to use. The scikit-learn library is very versatile and handy and serves real-world purposes like the prediction of consumer behavior, the creation of neuroimages, etc
+
+  2.  flask
+introduction
+Flask is an API of Python that allows us to build up web-applications.
+ It was developed by Armin Ronacher. Flask’s framework is more explicit than Django’s framework and is also easier to learn because it has less base code to implement a simple web-Application. A Web-Application Framework or Web Framework is the collection of modules and libraries that helps the developer to write applications without writing the low-level codes such as protocols, thread management, etc. Flask is based on WSGI(Web Server Gateway Interface) toolkit and Jinja2 template engine.
+Flask is a lightweight Python web framework that provides useful tools and features for creating web applications in the Python Language.
+
+  application
+Flask is a web framework. This means flask provides you with tools, libraries and technologies that allow you to build a web application. 
+This web application can be some web pages, a blog, a wiki or go as big as a web-based calendar application or a commercial website
+
+ advantages
+Advantages of Flask-based systems
+higher flexibility.
+higher compatibility with latest technologies.
+high scalability for simple web applications.
+technical experimentation.
+customization.
+slightly higher framework performance.
+easier to use for simple cases.
+smaller size of the code base.
+
+  disadvantages
+Disadvantages of Flask-based systems
+more potential for security risks.
+slower MVP development in most cases.
+more complex tech stack.
+higher maintenance costs for more complex systems.
+more complicated maintenance for larger implementations.
+
+ 3. joblib
+introduction
+Joblib is a set of tools to provide lightweight pipelining in Python.Joblib is optimized to be fast and robust on large data in particular and has specific optimizations for numpy arrays.
+Joblib is a set of tools to provide lightweight pipelining in Python. In particular: transparent disk-caching of functions and lazy re-evaluation (memoize pattern) easy simple parallel computing.
+I find joblib to be a really useful library. I have started integrating them into a lot of my Machine Learning Pipelines and definitely seeing a lot of improvements.
+
+Why do we use joblib in Python?
+Joblib is such an pacakge that can simply turn our Python code into parallel computing mode and of course increase the computing speed.
+ Joblib is optimized to be fast and robust in particular on large data and has specific optimizations for numpy arrays.
